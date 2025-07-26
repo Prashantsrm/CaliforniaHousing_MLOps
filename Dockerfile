@@ -5,5 +5,5 @@ COPY . /app
 
 RUN pip install --no-cache-dir scikit-learn joblib torch numpy
 
-ENTRYPOINT ["python"]
+CMD ["python", "predict.py"]
 
