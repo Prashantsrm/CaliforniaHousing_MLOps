@@ -1,0 +1,1 @@
+__pycache__/\n*.pyc\n*.pkl\n*.joblib\n.env\nvenv/\n*.pt\n*.pth
